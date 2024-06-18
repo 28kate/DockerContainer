@@ -1,0 +1,27 @@
+header{
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+
+.header_container{
+    text-align: center;
+    height: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.cta{
+    margin-top: 2.5rem;
+}
+
+.me{
+ 
+    width: 32rem;
+    height: 40rem;
+    position: relative;
+    margin: auto;
+    border-radius: 12rem 12rem 0 0;
+    overflow: hidden;
+    padding: 5rem 1.5rem 1.5rem 1.5rem;
+}
